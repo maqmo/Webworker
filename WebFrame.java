@@ -1,4 +1,3 @@
-package hw6;
 
 import java.awt.*;
 import javax.swing.*;
