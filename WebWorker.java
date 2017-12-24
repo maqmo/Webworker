@@ -1,4 +1,3 @@
-package hw6;
 
 import java.io.*;
 import java.net.*;
